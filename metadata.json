@@ -1,0 +1,6 @@
+{
+  "name": "special-edu.kz — Веб-анықтама (БӨЖ 4)",
+  "description": "Даму бұзылыстары бар оқушыларға арналған білім беру бағдарламалары мен special-edu.kz порталына арналған интерактивті веб-презентация және анықтамалық портал.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
